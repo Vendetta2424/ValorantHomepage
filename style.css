@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'ValorantFont';
-    src: url(Fonts/ValorantFont.ttf);
+    src: url(/Fonts/ValorantFont.ttf);
 }
 
 .header {
